@@ -24,7 +24,7 @@ h1 {
 }
 
 h1#titul {
-  border-bottom: 0;
+  border-bottom: 0px solid grey;
 }
 
 
